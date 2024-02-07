@@ -1,4 +1,4 @@
 # Hier Dateien und Verzeichnisse angeben, die von der Versionskontrolle ausgeschlossen werden sollen
-
+.html
 .pdf
 .DS_Store
